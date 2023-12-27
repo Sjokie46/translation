@@ -1,0 +1,134 @@
+{
+  "LANGUAGE": {
+    "LANGUAGE_WORD": "Taal",
+    "TRANSLATION_INFO_SETTINGS": "Er wordt nog aan de vertaling gewerkt; je zult een mix zien van de Engelse en de geselecteerde taal.<br> Je kunt ons met het vertalen helpen door de <guideLink>tutorial</guideLink> te lezen en vervolgens de <editorLink>web editor</editorLink> te gebruiken."
+  },
+  "COMMON": {
+    "ACTIONS": {
+      "CREATE": "Aanmaken",
+      "REMOVE": "Weghalen",
+      "DELETE": "Verwijderen",
+      "EDIT": "Bewerken",
+      "DUPLICATE": "Kopiëren",
+      "APPLY": "Toepassen",
+      "UPDATE": "Updaten",
+      "VIEW": "Bekijken",
+      "HIDE": "Verbergen"
+    }
+  },
+  "SETTINGS": {
+    "ACCOUNT": {
+      "PROFILE_TITLE": "Profiel",
+      "MY_PROFILE": "Mijn Profiel",
+      "PROFILE": {
+        "KEYWORDS": "Persoonlijk gebruikersprofiel"
+      },
+      "IMPORT_EXPORT_TITLE": "Importeren en Exporteren",
+      "EXPORT_IMPORT": {
+        "KEYWORDS": "Exporteer Backup Exporteer Roam Dynalist Logseq Notion Evernote Obsidian"
+      },
+      "NAVIGATION_TITLE": "Navigatie",
+      "NAVIGATION": {
+        "KEYWORDS": "Exporteer en Back-up Prullenbak Bekijk Verwijderde Rem Importeer Kennisbank Bekijk Alle Kaarten Download een Dagelijkse Back-up Geavanceerde Instellingen Verwijder Alle Rem"
+      },
+      "AUTHENTICATION_TITLE": "Authenticatie",
+      "AUTHENTICATION": {
+        "KEYWORDS": "Uitloggen Uitloggen Google Inlogmethode Voeg Toe Ontkoppel Inloggen Aanmelden "
+      },
+      "ADVANCED_TITLE": "Geavanceerde Instellingen",
+      "ADVANCED": {
+        "KEYWORDS": "Ondersteuning Herconfigureren Zoeken Bug Oplossen"
+      },
+      "DANGER_ZONE_TITLE": "Gevarenzone",
+      "PRIVACY_NOTE": "Privacy: Lees ons <policyLink>Privacybeleid</policyLink>, of verander je instellingen in ons <hubLink>Privacycentrum</hubLink>.",
+      "DANGER_ZONE": {
+        "TITLE": "Gevarenzone",
+        "KEYWORDS": "synchroniseer logboek verwijder account reset gebruiksinstructie voortgang reset introductieproces geavanceerde account instellingen"
+      },
+      "NOTIFICATIONS": {
+        "TITLE": "Mobiele Streak Meldingen",
+        "DESCRIPTION": "Stuur mobiele push-herinneringen over je dagelijkse flashcard-streak. Herinneringen komen elke dag om 18.00 uur, in je lokale tijdzone."
+      },
+      "SYNCING": {
+        "TITLE": "Bezig met synchroniseren",
+        "KEYWORDS": "Afbeeldingen & PDF's Geforceerd Synchroniseren"
+      },
+      "VERSION": {
+        "TITLE": "Applicatie Versie",
+        "KEYWORDS": "versie"
+      },
+      "SUPPORT": {
+        "TITLE": "Ondersteuning",
+        "KEYWORDS": "verstuur support ticket hulp"
+      },
+      "PRIVACY": {
+        "TITLE": "Privacy",
+        "KEYWORDS": "privacy"
+      }
+    },
+    "FLASHCARDS": {
+      "DAILY_TARGET": {
+        "MAXIMUM_DAILY_TARGET": {
+          "TITLE": "Maximaal Dagelijks Doel",
+          "DESCRIPTION": "Beperk het aantal flashcards dat RemNote je vraagt te oefenen om je dagelijkse doel te halen tot deze waarde."
+        },
+        "TODAYS_TARGET": "Doel van Vandaag:",
+        "TODAYS_TARGET_EXPLANATION": "RemNote probeert je dagelijkse doel zo in te stellen dat, als je het doel elke dag haalt, je alle kaarten die de komende 7 dagen beoordeeld moeten worden, hebt voltooid. Het dagelijkse doel zal echter nooit hoger zijn dan het hierboven ingestelde maximum."
+      },
+      "GENERAL": {
+        "RESET_ALL": {
+          "TITLE": "Alle Flashcard-instellingen resetten",
+          "DESCRIPTION": "Zet alle instellingen van de flashcards terug naar de standaardwaarden.",
+          "CONFIRM_MESSAGE": "Weet je zeker dat je alle instellingen van de flashcards wilt terugzetten naar de standaardwaarden?"
+        },
+        "NEW_CARDS_PER_DAY": {
+          "TITLE": "Maximaal aantal nieuwe kaarten per dag",
+          "DESCRIPTION": "Voeg elke dag maximaal zoveel nieuwe flashcards toe aan je flashcard wachtrij. Op deze manier komen er dagelijks een beperkt aantal nieuwe kaarten binnen in je wachtrij, in plaats van in een enorme hoeveelheid."
+        },
+        "STALE_CARDS_PER_DAY": {
+          "TITLE": "Maximum aantal oude kaarten per dag",
+          "DESCRIPTION": "Voeg elke dag maximaal zoveel oude flashcards toe aan je flashcard wachtrij. Oude kaarten zijn kaarten die tijdelijk niet in de wachtrij staan omdat je ze lang niet hebt bestudeerd en ze in één keer opnieuw leren vermoeiend zou zijn."
+        },
+        "LEECH_THRESHOLD": {
+          "DESCRIPTION": "Lastige kaarten zijn kaarten die je steeds opnieuw leert en dan weer vergeet. Als je vaker op 'vergeten' drukt dan dit aantal keren, zullen we je waarschuwen zodat je kunt achterhalen waarom je moeite hebt en het probleem kunt oplossen. Stel dit in op hogere waarden om de waarschuwing voor lastige kaarten minder vaak te zien."
+        },
+        "AUTOPLAY_MEDIA": {
+          "TITLE": "Media automatisch afspelen",
+          "DESCRIPTION": "Bij het zien van een flashcard, speel dan automatisch alle audio of video die het bezit, af."
+        },
+        "TYPE_ANSWER": {
+          "TITLE": "Type Antwoord",
+          "DESCRIPTION": "Toon een tekstvak op de voorkant van elke flashcard en vergelijk je antwoord met het antwoord op de achterkant van de kaart."
+        },
+        "SIMPLIFIED_FLASHCARD_BUTTONS": {
+          "TITLE": "Vereenvoudigde Flashcard-Knoppen",
+          "DESCRIPTION": "Toon alleen de antwoordknoppen \"Vergeten\" en \"Met moeite  herinnerd\" bij het bestuderen van flashcards, in plaats van alle vijf de opties."
+        }
+      },
+      "VISUAL": {
+        "SHOW_NEXT_REVIEW_TIMES": {
+          "TITLE": "Laat Volgende Review-tijden Zien",
+          "DESCRIPTION": "Geef de tijd tot de volgende review weer op elke antwoordknop."
+        }
+      },
+      "ORDERING": {
+        "DOCUMENT_CLUSTERS": {
+          "TITLE": "Document Clusters",
+          "DESCRIPTION": "Geef voorkeur aan het samen oefenen van Rems van gekoppelde documenten."
+        },
+        "REFERENCE_CLUSTERS": {
+          "TITLE": "Referentie Clusters",
+          "DESCRIPTION": "Geef voorkeur aan het samen oefenen van Rems die aan elkaar refereren."
+        },
+        "TAG_CLUSTERS": {
+          "TITLE": "Label Clusters",
+          "DESCRIPTION": "Geef voorkeur aan het samen oefenen van Rems met hetzelfde label."
+        },
+        "HIERARCHY_CLUSTERS": {
+          "TITLE": "Hierarchie Cluster",
+          "DESCRIPTION": "Geef voorkeur aan het samen oefenen van Rems die hiërarchisch aan elkaar gerelateerd zijn."
+        }
+      }
+    }
+  }
+}
